@@ -1,0 +1,13 @@
+pip install virtualenv
+C:\Users\mft\Desktop\django>.\venv\Scripts\activate
+(venv) C:\Users\mft\Desktop\django>
+
+
+# command 
+dir
+mkdir
+cd directory_name
+cd ..
+.\file_name execute
+django-admin startproject onlineshop .
+django-admin startproject onlineshop
